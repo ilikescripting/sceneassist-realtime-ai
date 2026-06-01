@@ -1,0 +1,6 @@
+opencv-python==4.13.0.92
+ultralytics==8.4.43
+torch==2.11.0
+torchvision==0.26.0
+transformers==5.7.0
+pillow==12.2.0
