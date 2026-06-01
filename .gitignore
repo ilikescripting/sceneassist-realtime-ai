@@ -1,3 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+yolo-env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Model files
+*.pt
+*.onnx
+*.tflite
+
+# Large media
+*.mp4
+*.avi
+*.mov
+
+# System files
+.DS_Store
+Thumbs.db
+
 __pycache__/
 *.pyc
 *.pt
